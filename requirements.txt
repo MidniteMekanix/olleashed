@@ -1,0 +1,11 @@
+
+ollama
+colorama
+chromadb
+pygments
+duckduckgo_search
+pywin32
+pyperclip
+beautifulsoup4
+requests
+pyusb
